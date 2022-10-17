@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+}
